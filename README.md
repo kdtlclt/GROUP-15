@@ -1,5 +1,5 @@
 # GROUP-15
-## Principles of Digital Fabrication: Tube Squeezer
+Principles of Digital Fabrication: Tube Squeezer
 
 ## Contents
 ### Code
