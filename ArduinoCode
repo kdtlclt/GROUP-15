@@ -1,0 +1,42 @@
+#include <Servo.h>
+
+const int POTENTIOMETER_PIN = 26;  // Potentiometer pin
+const int BUTTON_PIN = 2;           // Button pin
+const int IR_PIN = 27;
+Servo servoMotor;
+int angle = 0;
+bool rotate = false;
+ int potValue = 0;  // Potentiometer reading
+
+void setup() {
+  pinMode(BUTTON_PIN, INPUT);
+  pinMode(IR_PIN, INPUT);
+  servoMotor.attach(1);  // Attach the servo to pin 9
+}
+
+void loop() {
+  // Read potentiometer value
+  potValue = analogRead(POTENTIOMETER_PIN);
+  
+  // Map potentiometer value (0-1023) to delay range (10-100 ms)
+  int delayValue = map(potValue, 0, 1023, 10, 100);
+  
+  // Check if the button is pressed
+  if (digitalRead(BUTTON_PIN) == HIGH && digitalRead(IR_PIN) != HIGH) {
+    // Start rotating the servo
+    rotate = true;
+  } else {
+    // Stop rotating the servo
+    rotate = false;
+  }
+  
+  // Rotate the servo if the button is pressed
+  if (rotate) {
+    servoMotor.write(angle);  // Set servo to the current angle
+    angle += 1;  // Increment angle
+    if (angle > 180) {
+      angle = 0;  // Reset angle to 0 if it exceeds 180 degrees
+    }
+    delay(delayValue);  // Delay for servo movement stability, using potentiometer value
+  }
+}
