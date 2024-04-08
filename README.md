@@ -16,5 +16,9 @@ Principles of Digital Fabrication: Tube Squeezer
 [supportstructure(lower middle part 2.0).stl](https://github.com/kdtlclt/GROUP-15/blob/main/3D_MODELS/supportstructure(lower%20middle%20part%202.0).stl) - Middle parts for the support (v2)  
 [supportstructure(uppermiddle part 2.0).stl](https://github.com/kdtlclt/GROUP-15/blob/main/3D_MODELS/supportstructure(uppermiddle%20part%202.0).stl) - Middle parts for the support (v2)  
 
+### 2D Stuff
+[Outershell 2D.svg](https://github.com/kdtlclt/GROUP-15/blob/main/2D_STUFF/Outershell%202D.svg) - Design for the outer shell (to be lasercut, not ready)
+[ulkokuori digitalfabrication.svg](https://github.com/kdtlclt/GROUP-15/blob/main/2D_STUFF/ulkokuori%20digitalfabrication.svg) - Design for the outer shell (to be lasercut, not ready)
+
 ### Other
-README.md - This file :)
+[README.md](https://github.com/kdtlclt/GROUP-15/blob/main/README.md) - This file :)
