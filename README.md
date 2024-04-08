@@ -19,6 +19,8 @@ Principles of Digital Fabrication: Tube Squeezer
 ### 2D Stuff
 [Outershell 2D.svg](https://github.com/kdtlclt/GROUP-15/blob/main/2D_STUFF/Outershell%202D.svg) - Design for the outer shell (to be lasercut, not ready)  
 [ulkokuori digitalfabrication.svg](https://github.com/kdtlclt/GROUP-15/blob/main/2D_STUFF/ulkokuori%20digitalfabrication.svg) - Design for the outer shell (to be lasercut, not ready)  
+[GROUP15_TUBE.png](https://github.com/kdtlclt/GROUP-15/blob/main/2D_STUFF/GROUP15_TUBE.png) - Picture that's to be carved on the outer shell (no background)  
+[GROUP15_TUBE_BG.png](https://github.com/kdtlclt/GROUP-15/blob/main/2D_STUFF/GROUP15_TUBE_BG.png) - Picture that's to be carved on the outer shell (background)  
 
 ### Other
 [README.md](https://github.com/kdtlclt/GROUP-15/blob/main/README.md) - This file :)
