@@ -30,7 +30,7 @@ Files marked with the green checkmark (✔️) are the ones used in the final pr
 [ready outershell v1.0 2D (pdf) (outline).pdf](https://github.com/kdtlclt/GROUP-15/blob/main/2D_STUFF/ready%20outershell%20v1.0%202D%20(pdf)%20(outline).pdf) - Design for the outer shell 1.0  
 [ready outershell v1.1 2D (pdf) (outline).pdf](https://github.com/kdtlclt/GROUP-15/blob/main/2D_STUFF/ready%20outershell%20v1.1%202D%20(pdf)%20(outline).pdf) - Design for the outer shell 1.1  
 [ready outershell (outlines) v1.2 2D (pdf) (outline).pdf](https://github.com/kdtlclt/GROUP-15/blob/main/2D_STUFF/ready%20outershell%20(outlines)%20v1.2%202D%20(pdf)%20(outline).pdf) - Design for the outer shell 1.2  
-[ready outershell v1.2 2D (pdf) (outline) finished.pdf](https://github.com/kdtlclt/GROUP-15/blob/main/2D_STUFF/ready%20outershell%20%20v1.2%202D%20(pdf)%20(outline)%20finished.pdf) - Design for the outer shell 1.2 (just the outlines, finished version)✔️  
+[ready outershell v1.2 2D (pdf) (outline) finished.pdf](https://github.com/kdtlclt/GROUP-15/blob/main/2D_STUFF/ready%20outershell%20%20v1.2%202D%20(pdf)%20(outline)%20finished.pdf) - Design for the outer shell 1.2 (finished version)✔️  
 
 ### Other
 [README.md](https://github.com/kdtlclt/GROUP-15/blob/main/README.md) - This file :)
