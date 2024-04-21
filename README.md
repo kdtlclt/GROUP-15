@@ -4,7 +4,8 @@ Principles of Digital Fabrication: Tube Squeezer
 ## Contents
 ### Code
 [1st code PROTO.txt](https://github.com/kdtlclt/GROUP-15/blob/main/CODE/1st%20code%20PROTO.txt) - Initial code for testing a simulation  
-[ArduinoCode](https://github.com/kdtlclt/GROUP-15/blob/main/CODE/ArduinoCode) - The actual code for the prototype  
+[ArduinoCode](https://github.com/kdtlclt/GROUP-15/blob/main/CODE/ArduinoCode) - Older version of the code for the prototype (no LEDS)  
+[Arduino with LEDS](https://github.com/kdtlclt/GROUP-15/blob/main/CODE/Arduino%20with%20LEDS) - The code for the protype  
 
 ### 3D Models
 [Cylinder(basic).stl](https://github.com/kdtlclt/GROUP-15/blob/main/3D_MODELS/Cylinder(basic).stl) - Roller (without a spot for the motor)  
