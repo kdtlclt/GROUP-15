@@ -8,7 +8,7 @@ Principles of Digital Fabrication: Tube Squeezer
 [Arduino with LEDS](https://github.com/kdtlclt/GROUP-15/blob/main/CODE/Arduino%20with%20LEDS) - The code for the protype  
 
 ### 3D Models
-[Cylinder(basic).stl](https://github.com/kdtlclt/GROUP-15/blob/main/3D_MODELS/Cylinder(basic).stl) - Roller (without a spot for the motor)  
+[Cylinder(basic).stl](https://github.com/kdtlclt/GROUP-15/blob/main/3D_MODELS/Cylinder(basic).stl) - Roller (without a spot for the motor) ```diff - UNUSED ```  
 [Cylinder(motor in it).stl](https://github.com/kdtlclt/GROUP-15/blob/main/3D_MODELS/Cylinder(motor%20in%20it).stl) - Roller (with a spot for the motor)  
 [Support(motorwall).stl](https://github.com/kdtlclt/GROUP-15/blob/main/3D_MODELS/Support(motorwall).stl) - First side of the support (with a spot for the motor)  
 [support(wall with pipes).stl](https://github.com/kdtlclt/GROUP-15/blob/main/3D_MODELS/support(wall%20with%20pipes).stl) - Second side of the support (with just the "pipes" for the rollers)  
